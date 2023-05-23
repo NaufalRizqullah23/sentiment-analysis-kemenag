@@ -50,7 +50,7 @@ scipy==1.10.1
 
 six==1.16.0
 
-snscrape==0.6.1.20230314
+snscrape==0.6.2.20230320
 
 soupsieve==2.4
 
